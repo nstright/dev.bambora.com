@@ -15,7 +15,7 @@ navigation:
 
 # Merchant Quickstart
 
-Welcome to our setup and configuration guide. Use this space to learn how to create and configure your account, and how to test our Payment APIs.
+Welcome to our set-up and configuration guide. Use this space to learn how to create and configure your account, and how to test our Payment APIs.
 
 This guide will show you how to create and configure a test account.
 
